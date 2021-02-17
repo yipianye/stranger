@@ -75,23 +75,23 @@ function rgb2hex(rgb) {
 $(function() {
   var bookmark = {
     data: [{
-      name: '开发日志',
-      link: 'http://kksan.top/posts/12023/',
+      name: '痴人多梦',
+      link: 'https://icp.me',
       box_shadow: '#F18033',
       icon: 'img/log.png',
     }, {
-      name: '酷安',
-      link: 'https://www.coolapk.com',
+      name: '鸿博',
+      link: 'https://hbw.me',
       box_shadow: '#11B063',
       icon: 'img/coolapk.png',
     }, {
-      name: 'Via插件',
-      link: 'http://via-app.cn',
+      name: 'WorkGroup.World',
+      link: 'https://workgroup.world',
       box_shadow: '#FA7199',
       icon: 'img/via.png',
     }, {
-      name: '今日热榜',
-      link: 'https://tophub.today/',
+      name: '腾讯',
+      link: 'https://qq.com/',
       box_shadow: '#F2584A',
       icon: 'img/headline.png',
     }, {
@@ -105,8 +105,8 @@ $(function() {
       box_shadow: '#F57923',
       icon: 'img/mi.png',
     }, {
-      name: 'unsplash',
-      link: 'https://unsplash.com/',
+      name: '素材库',
+      link: 'https://freepik.com/',
       box_shadow: '#2C2C2C',
       icon: 'img/unsplash.png',
     }, {
