@@ -85,7 +85,7 @@ $(function() {
       box_shadow: '#11B063',
       icon: 'img/coolapk.png',
     }, {
-      name: 'WorkGroup.World',
+      name: 'WorkGroup',
       link: 'https://workgroup.world',
       box_shadow: '#FA7199',
       icon: 'img/via.png',
