@@ -100,10 +100,10 @@ $(function() {
       box_shadow: '#0078D8',
       icon: 'img/zhihulogo.png',
     }, {
-      name: '小米商城',
-      link: 'https://www.mi.com/',
+      name: '紫白菜',
+      link: 'https://zibaicai.com/',
       box_shadow: '#F57923',
-      icon: 'img/mi.png',
+      icon: 'img/zibaicai.png',
     }, {
       name: '青红椒',
       link: 'https://qinghongjiao.com/',
