@@ -95,7 +95,7 @@ $(function() {
       box_shadow: '#F2584A',
       icon: 'img/qq.jpg',
     }, {
-      name: '知乎',
+      name: 'Stranger',
       link: 'https://stranger.world/',
       box_shadow: '#0078D8',
       icon: 'img/stranger.png',
