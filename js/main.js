@@ -78,12 +78,12 @@ $(function() {
      name: '痴人多梦',
       link: 'https://icp.me',
       box_shadow: '#F18033',
-      icon: 'https://cdn.jsdelivr.net/gh/chirenduomeng/strangerworld/img/chiren.jpg',
+      icon: 'img/chiren.jpg',
     }, {
       name: '鸿博',
       link: 'https://hbw.me',
       box_shadow: '#11B063',
-      icon: 'https://cdn.jsdelivr.net/gh/chirenduomeng/strangerworld/img/hb.png',
+      icon: 'https://hbw.me/assets/images/avatars.png',
     }, {
       name: 'WorkGroup',
       link: 'https://workgroup.world',
