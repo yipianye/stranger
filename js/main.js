@@ -105,16 +105,7 @@ $(function() {
       box_shadow: '#F57923',
       icon: 'img/zibaicai.jpg',
     }, {
-      name: '青红椒',
-      link: 'https://qinghongjiao.com/',
-      box_shadow: '#2C2C2C',
-      icon: 'img/qinghongjiao.jpg',
-    }, {
-      name: '豆瓣',
-      link: 'https://www.douban.com/',
-      box_shadow: '#37bf4c',
-      icon: 'img/douban.png',
-    }, {
+      
       name: '虎扑',
       link: 'https://www.hupu.com/',
       box_shadow: '#c01d2f',
@@ -149,6 +140,16 @@ $(function() {
       link: 'https://ncov.dxy.cn/ncovh5/view/pneumonia',
       box_shadow: '#7C5DC7',
       icon: 'img/ding.png',
+    }, {
+      name: '青红椒',
+      link: 'https://qinghongjiao.com/',
+      box_shadow: '#2C2C2C',
+      icon: 'img/qinghongjiao.jpg',
+    }, {
+      name: '豆瓣',
+      link: 'https://www.douban.com/',
+      box_shadow: '#37bf4c',
+      icon: 'img/douban.png',
     }, {
       name: '疫情辟谣',
       link: 'https://vp.fact.qq.com/home',
