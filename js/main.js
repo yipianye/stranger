@@ -100,6 +100,16 @@ $(function() {
       box_shadow: '#0078D8',
       icon: 'img/zhihulogo.png',
     }, {
+      name: '小米商城',
+      link: 'https://www.mi.com/',
+      box_shadow: '#F57923',
+      icon: 'img/mi.png',
+    }, {
+      name: 'unsplash',
+      link: 'https://unsplash.com/',
+      box_shadow: '#2C2C2C',
+      icon: 'img/unsplash.png',
+    }, {
       name: '豆瓣',
       link: 'https://www.douban.com/',
       box_shadow: '#37bf4c',
@@ -139,41 +149,6 @@ $(function() {
       link: 'https://ncov.dxy.cn/ncovh5/view/pneumonia',
       box_shadow: '#7C5DC7',
       icon: 'img/ding.png',
-    }, {
-       name: '痴人多梦',
-      link: 'https://icp.me',
-      box_shadow: '#F18033',
-      icon: 'img/chiren.jpg',
-    }, {
-      name: '鸿博',
-      link: 'https://hbw.me',
-      box_shadow: '#11B063',
-      icon: 'img/hb.png',
-    }, {
-      name: 'WorkGroup',
-      link: 'https://workgroup.world',
-      box_shadow: '#FA7199',
-      icon: 'img/workgroup.png',
-    }, {
-      name: '腾讯兔小巢',
-      link: 'https://support.qq.com/product/309330',
-      box_shadow: '#F2584A',
-      icon: 'img/qq.jpg',
-    }, {
-      name: 'Stranger',
-      link: 'https://stranger.world/',
-      box_shadow: '#0078D8',
-      icon: 'img/stranger.png',
-    }, {
-      name: '紫白菜',
-      link: 'https://zibaicai.com/',
-      box_shadow: '#F57923',
-      icon: 'img/zibaicai.jpg',
-    }, {
-      name: '青红椒',
-      link: 'https://qinghongjiao.com/',
-      box_shadow: '#2C2C2C',
-      icon: 'img/qinghongjiao.jpg',
     }, {
       name: '疫情辟谣',
       link: 'https://vp.fact.qq.com/home',
