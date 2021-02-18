@@ -105,7 +105,6 @@ $(function() {
       box_shadow: '#F57923',
       icon: 'img/zibaicai.jpg',
     }, {
-      
       name: '虎扑',
       link: 'https://www.hupu.com/',
       box_shadow: '#c01d2f',
