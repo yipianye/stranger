@@ -96,9 +96,9 @@ $(function() {
       icon: 'img/qq.jpg',
     }, {
       name: '知乎',
-      link: 'https://www.zhihu.com/',
+      link: 'https://stranger.world/',
       box_shadow: '#0078D8',
-      icon: 'img/zhihulogo.png',
+      icon: 'img/stranger.png',
     }, {
       name: '紫白菜',
       link: 'https://zibaicai.com/',
