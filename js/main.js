@@ -90,8 +90,8 @@ $(function() {
       box_shadow: '#FA7199',
       icon: 'img/workgroup.png',
     }, {
-      name: '腾讯',
-      link: 'https://qq.com/',
+      name: '腾讯兔小巢',
+      link: 'https://support.qq.com/product/309330',
       box_shadow: '#F2584A',
       icon: 'img/qq.jpg',
     }, {
