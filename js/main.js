@@ -88,7 +88,7 @@ $(function() {
       name: 'WorkGroup',
       link: 'https://workgroup.world',
       box_shadow: '#FA7199',
-      icon: 'img/workgroup.png',
+      icon: 'img/workgroup.jpg',
     }, {
       name: '腾讯',
       link: 'https://qq.com/',
@@ -105,7 +105,7 @@ $(function() {
       box_shadow: '#F57923',
       icon: 'img/mi.png',
     }, {
-      name: '素材库',
+      name: '青红椒',
       link: 'https://qinghongjiao.com/',
       box_shadow: '#2C2C2C',
       icon: 'img/qinghongjiao.jpg',
