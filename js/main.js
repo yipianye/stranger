@@ -155,7 +155,7 @@ $(function() {
       box_shadow: '#00A0E9',
       icon: 'img/true.png',
     }]
-  }
+   }
   for (var i = 0; i < bookmark.data.length; i++) {
     if (bookmark.data[i].name == 'Via插件') {
       var addList = '<li class="folder-item col-xs-3 col-sm-2 visible-xs visible-sm"><a target="_blank" href="' + bookmark.data[i].link + '"><div class="folder-item-box"><img class="folder-item-img" style="box-shadow:' + bookmark.data[i].box_shadow + ' 0 14px 12px -6px" src="' + bookmark.data[i].icon + '" /><p>' + bookmark.data[i].name + '</p></div></a></li>'
@@ -410,16 +410,16 @@ function check() {
 var d = new Date();
 var time = d.getHours();
 if (time < 24) {
-  document.getElementById("title").innerHTML = "陌生人丨导航 | Good evening";
+  document.getElementById("title").innerHTML = "一个导航 | Good evening";
 }
 if (time < 18) {
-  document.getElementById("title").innerHTML = "Stranger丨导航 | Good afternoon";
+  document.getElementById("title").innerHTML = "一个导航 | Good afternoon";
 }
 if (time < 12) {
-  document.getElementById("title").innerHTML = "陌生人,世界丨导航 | Good morning";
+  document.getElementById("title").innerHTML = "一个导航 | Good morning";
 }
 if (time < 5) {
-  document.getElementById("title").innerHTML = "陌圣人丨导航 | Stay up late again";
+  document.getElementById("title").innerHTML = "一个导航 | Stay up late again";
 }
 //title问候语结束
 
