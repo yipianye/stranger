@@ -78,22 +78,22 @@ $(function() {
       name: '痴人多梦',
       link: 'https://icp.me',
       box_shadow: '#F18033',
-      icon: 'img/log.png',
+      icon: 'img/chiren.jpg',
     }, {
       name: '鸿博',
       link: 'https://hbw.me',
       box_shadow: '#11B063',
-      icon: 'img/coolapk.png',
+      icon: 'img/hb.png',
     }, {
       name: 'WorkGroup',
       link: 'https://workgroup.world',
       box_shadow: '#FA7199',
-      icon: 'img/via.png',
+      icon: 'img/workgroup.png',
     }, {
       name: '腾讯',
       link: 'https://qq.com/',
       box_shadow: '#F2584A',
-      icon: 'img/headline.png',
+      icon: 'img/qq.jpg',
     }, {
       name: '知乎',
       link: 'https://www.zhihu.com/',
