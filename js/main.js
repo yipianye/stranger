@@ -100,16 +100,6 @@ $(function() {
       box_shadow: '#0078D8',
       icon: 'img/zhihulogo.png',
     }, {
-      name: '小米商城',
-      link: 'https://www.mi.com/',
-      box_shadow: '#F57923',
-      icon: 'img/mi.png',
-    }, {
-      name: 'unsplash',
-      link: 'https://unsplash.com/',
-      box_shadow: '#2C2C2C',
-      icon: 'img/unsplash.png',
-    }, {
       name: '豆瓣',
       link: 'https://www.douban.com/',
       box_shadow: '#37bf4c',
