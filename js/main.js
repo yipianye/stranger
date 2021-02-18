@@ -106,9 +106,9 @@ $(function() {
       icon: 'img/mi.png',
     }, {
       name: '素材库',
-      link: 'https://freepik.com/',
+      link: 'https://qinghongjiao.com/',
       box_shadow: '#2C2C2C',
-      icon: 'img/unsplash.png',
+      icon: 'img/qinghongjiao.jpg',
     }, {
       name: '豆瓣',
       link: 'https://www.douban.com/',
