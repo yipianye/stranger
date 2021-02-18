@@ -75,40 +75,40 @@ function rgb2hex(rgb) {
 $(function() {
   var bookmark = {
     data: [{
-      name: '痴人多梦',
-      link: 'https://icp.me',
+      name: '开发日志',
+      link: 'http://kksan.top/posts/12023/',
       box_shadow: '#F18033',
-      icon: 'img/chiren.jpg',
+      icon: 'img/log.png',
     }, {
-      name: '鸿博',
-      link: 'https://hbw.me',
+      name: '酷安',
+      link: 'https://www.coolapk.com',
       box_shadow: '#11B063',
-      icon: 'img/hb.png',
+      icon: 'img/coolapk.png',
     }, {
-      name: 'WorkGroup',
-      link: 'https://workgroup.world',
+      name: 'Via插件',
+      link: 'http://via-app.cn',
       box_shadow: '#FA7199',
-      icon: 'img/workgroup.png',
+      icon: 'img/via.png',
     }, {
-      name: '腾讯兔小巢',
-      link: 'https://support.qq.com/product/309330',
+      name: '今日热榜',
+      link: 'https://tophub.today/',
       box_shadow: '#F2584A',
-      icon: 'img/qq.jpg',
+      icon: 'img/headline.png',
     }, {
-      name: 'Stranger',
-      link: 'https://stranger.world/',
+      name: '知乎',
+      link: 'https://www.zhihu.com/',
       box_shadow: '#0078D8',
-      icon: 'img/stranger.png',
+      icon: 'img/zhihulogo.png',
     }, {
-      name: '紫白菜',
-      link: 'https://zibaicai.com/',
+      name: '小米商城',
+      link: 'https://www.mi.com/',
       box_shadow: '#F57923',
-      icon: 'img/zibaicai.jpg',
+      icon: 'img/mi.png',
     }, {
-      name: '青红椒',
-      link: 'https://qinghongjiao.com/',
+      name: 'unsplash',
+      link: 'https://unsplash.com/',
       box_shadow: '#2C2C2C',
-      icon: 'img/qinghongjiao.jpg',
+      icon: 'img/unsplash.png',
     }, {
       name: '豆瓣',
       link: 'https://www.douban.com/',
@@ -155,7 +155,7 @@ $(function() {
       box_shadow: '#00A0E9',
       icon: 'img/true.png',
     }]
-   }
+  }
   for (var i = 0; i < bookmark.data.length; i++) {
     if (bookmark.data[i].name == 'Via插件') {
       var addList = '<li class="folder-item col-xs-3 col-sm-2 visible-xs visible-sm"><a target="_blank" href="' + bookmark.data[i].link + '"><div class="folder-item-box"><img class="folder-item-img" style="box-shadow:' + bookmark.data[i].box_shadow + ' 0 14px 12px -6px" src="' + bookmark.data[i].icon + '" /><p>' + bookmark.data[i].name + '</p></div></a></li>'
