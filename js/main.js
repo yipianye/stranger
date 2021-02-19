@@ -106,14 +106,14 @@ $(function() {
       icon: 'img/zibaicai.jpg',
     }, {
       name: '青红椒',
-      link: 'http://qinghongjiao.com/',
+      link: 'https://qinghongjiao.com/',
       box_shadow: '#c01d2f',
       icon: 'img/qinghongjiao.jpg',
     }, {
-      name: '字魂网',
-      link: 'https://izihun.com/',
+      name: '图床',
+      link: 'https://icp.me/img',
       box_shadow: '#fe7700',
-      icon: 'img/izihun.png',
+      icon: 'img/unsplash.png',
     }, {
       name: 'XDA',
       link: 'https://www.xda-developers.com/',
