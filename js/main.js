@@ -142,7 +142,7 @@ $(function() {
     }, {
       name: '知乎',
       link: 'https://www.zhihu.com/',
-      box_shadow: '#2C2C2C',
+      box_shadow: '#2C0000',
       icon: 'img/zhihulogo.png',
     }, {
       name: '豆瓣',
