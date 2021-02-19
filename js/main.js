@@ -120,8 +120,8 @@ $(function() {
       box_shadow: '#AC6E2F',
       icon: 'https://www.bootcdn.cn/assets/ico/favicon.ico',
     }, {
-      name: '少数派',
-      link: 'https://sspai.com/',
+      name: '字体图标',
+      link: 'http://www.fontawesome.com.cn/',
       box_shadow: '#D7191A',
       icon: 'img/sspai.png',
     }, {
