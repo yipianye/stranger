@@ -140,10 +140,10 @@ $(function() {
       box_shadow: '#7C5DC7',
       icon: 'img/ding.png',
     }, {
-      name: 'Dynadot',
-      link: 'https://www.dynadot.com/zh/',
+      name: '知乎',
+      link: 'https://www.zhihu.com/',
       box_shadow: '#2C2C2C',
-      icon: 'https://www.dynadot.com/tc/navbar-logo-white.png',
+      icon: 'img/zhihulogo.png',
     }, {
       name: '豆瓣',
       link: 'https://www.douban.com/',
