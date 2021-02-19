@@ -145,10 +145,10 @@ $(function() {
       box_shadow: '#2C0000',
       icon: 'img/zhihulogo.png',
     }, {
-      name: '豆瓣',
-      link: 'https://www.douban.com/',
+      name: 'Bootcdn',
+      link: 'https://www.bootcdn.cn/',
       box_shadow: '#37bf4c',
-      icon: 'img/douban.png',
+      icon: 'img/bootcdn.png',
     }, {
       name: '疫情辟谣',
       link: 'https://vp.fact.qq.com/home',
