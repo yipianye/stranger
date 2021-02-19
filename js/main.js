@@ -105,15 +105,15 @@ $(function() {
       box_shadow: '#F57923',
       icon: 'img/zibaicai.jpg',
     }, {
-      name: '虎扑',
-      link: 'https://www.hupu.com/',
+      name: '青红椒',
+      link: 'http://qinghongjiao.com/',
       box_shadow: '#c01d2f',
-      icon: 'img/hupu.png',
+      icon: 'img/qinghongjiao.jpg',
     }, {
-      name: '斗鱼',
-      link: 'https://www.douyu.com/',
+      name: '字魂网',
+      link: 'https://izihun.com/',
       box_shadow: '#fe7700',
-      icon: 'img/douyu.png',
+      icon: 'img/izihun.png',
     }, {
       name: 'XDA',
       link: 'https://www.xda-developers.com/',
