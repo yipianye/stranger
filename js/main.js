@@ -115,7 +115,7 @@ $(function() {
       box_shadow: '#fe7700',
       icon: 'img/img.png',
     }, {
-      name: 'Fontawesome',
+      name: '图标库',
       link: 'http://www.fontawesome.com.cn/',
       box_shadow: '#AC6E2F',
       icon: 'img/fontawesome.jpg',
