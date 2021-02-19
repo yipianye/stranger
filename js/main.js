@@ -115,10 +115,10 @@ $(function() {
       box_shadow: '#fe7700',
       icon: 'img/img.png',
     }, {
-      name: '图标库',
-      link: 'http://www.fontawesome.com.cn/',
+      name: 'Bootcdn',
+      link: 'https://www.bootcdn.cn/',
       box_shadow: '#AC6E2F',
-      icon: 'img/fontawesome.jpg',
+      icon: 'https://www.bootcdn.cn/assets/ico/favicon.ico',
     }, {
       name: '少数派',
       link: 'https://sspai.com/',
