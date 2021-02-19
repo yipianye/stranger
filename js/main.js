@@ -115,10 +115,10 @@ $(function() {
       box_shadow: '#fe7700',
       icon: 'img/img.png',
     }, {
-      name: 'XDA',
-      link: 'https://www.xda-developers.com/',
+      name: 'Fontawesome',
+      link: 'http://www.fontawesome.com.cn/',
       box_shadow: '#AC6E2F',
-      icon: 'img/xda.png',
+      icon: 'img/fontawesome.jpg',
     }, {
       name: '少数派',
       link: 'https://sspai.com/',
