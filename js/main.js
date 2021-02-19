@@ -140,10 +140,10 @@ $(function() {
       box_shadow: '#7C5DC7',
       icon: 'img/ding.png',
     }, {
-      name: '青红椒',
-      link: 'https://qinghongjiao.com/',
+      name: 'Dynadot',
+      link: 'https://www.dynadot.com/zh/',
       box_shadow: '#2C2C2C',
-      icon: 'img/qinghongjiao.jpg',
+      icon: 'https://www.dynadot.com/tc/navbar-logo-white.png',
     }, {
       name: '豆瓣',
       link: 'https://www.douban.com/',
