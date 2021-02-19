@@ -113,7 +113,7 @@ $(function() {
       name: '图床',
       link: 'https://icp.me/img',
       box_shadow: '#fe7700',
-      icon: 'img/unsplash.png',
+      icon: 'img/img.png',
     }, {
       name: 'XDA',
       link: 'https://www.xda-developers.com/',
