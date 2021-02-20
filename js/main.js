@@ -133,7 +133,7 @@ $(function() {
       name: '懒人图库',
       link: 'https://www.lanrentuku.com/',
       box_shadow: '#62677b',
-      icon: 'https://www.lanrentuku.com/images/logo.jpg',
+      icon: 'https://www.lanrentuku.com/favicon.ico',
     }, {
       name: '疫情跟踪',
       link: 'https://ncov.dxy.cn/ncovh5/view/pneumonia',
