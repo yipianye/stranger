@@ -130,10 +130,10 @@ $(function() {
       box_shadow: '#3279ea',
       icon: 'img/xiaozhong.png',
     }, {
-      name: '数字尾巴',
-      link: 'https://www.dgtle.com/',
+      name: '懒人图库',
+      link: 'https://www.lanrentuku.com/',
       box_shadow: '#62677b',
-      icon: 'img/shuziweiba.png',
+      icon: 'https://www.lanrentuku.com/images/logo.jpg',
     }, {
       name: '疫情跟踪',
       link: 'https://ncov.dxy.cn/ncovh5/view/pneumonia',
